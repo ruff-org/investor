@@ -23,11 +23,10 @@ The total offering of shares to investors in this IPO will be 4,000 or 40% of th
 
 ## Total Private Issuance
 - [blazed.company](https://blazed.company) - Blazed Company Stock (BLZ) - **1,000 shares / 10%**
-- [blazed.quest](https://blazed.quest) - Blazed Quest Gold - **1,000 shares / 10%**
 - [Robert Ruff](https://rtmtransit.com) - RTM Transportation LLC CEO - **2,500 shares / 25%**
 - Matthew Ruff - Blazed Labs COO - **2,000 shares / 20%**
 - Maya Parez - Blazed Labs secretary - **500 shares / 5%**
-* Total: **7,000 shares / 70%**
+* Total: **6,000 shares / 60%**
 
 ## Company Financial Record
 The Ruff Management Inc. company has recently been founded, but looking upon the RTM Transportation LLC and Blazed Labs LLC companies, investors can realize the undervalued potential in these companies. The recent financial statements have been included in the **/finance-history/** */ folder.
@@ -42,3 +41,6 @@ Our ultimate goal in this IPO campaign is to raise $5 million in capital for the
 ## Offering Price
 * The offering price for common (public) stock will initially be set at $221/share.
 * The offering price for preferred (private) stock will initially be set at $300/share.
+
+## Investent Model
+The Ruff Management Inc. company has developed a unique way to sell equity and allow investors to hold and trade assets. This is all enabled through our Virtual World platform, which allows investors to buy and sell assets, conduct business transactions, and to create their own virtual paradise. User can own virtual real-estate, banking notes, and virtual assets. Similarly, the Concrete Games platform will issue Concrete Coin, which allows users to exchange for micro-transactions within Concrete Games produced games. 
