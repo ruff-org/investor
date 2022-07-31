@@ -30,7 +30,8 @@ The total offering of shares to investors in this IPO will be 4,000 or 40% of th
 * Total: **7,000 shares / 70%**
 
 ## Company Financial Record
-The Ruff Management Inc. company has recently been founded, but looking upon the RTM Transportation LLC and Blazed Labs LLC companies, investors can realize the undervalued potential in these companies.
+The Ruff Management Inc. company has recently been founded, but looking upon the RTM Transportation LLC and Blazed Labs LLC companies, investors can realize the undervalued potential in these companies. The recent financial statements have been included in the **/finance-history/** */ folder.
+* Total estimated company equity = **$2.7 mill**
 
 ## Risks
 The risk for this investment is actually quite low, as the company is being managed by a team of passionate and trained individuals in their field. The credit rating of each and every individual is high, as well as the credit for each and every LLC, and finally the credit for the managing C-CORP is of utmost importance to preserve, as the availabilty of low-interest loans will improve the business process in all aspects. Furthermore, the company pledges to transparently publish its financial statements to investors, as well as other internal company documents (not including sensative personal data), so investors may have full assurance that their investment is safe.
@@ -39,4 +40,5 @@ The risk for this investment is actually quite low, as the company is being mana
 Our ultimate goal in this IPO campaign is to raise $5 million in capital for the purchase of business property, inventory, utillities, insurance and employee wages. With the purchase of the commercial property, we intend to sub-lease unused space to other businesses, this generating more revenue for investors.
 
 ## Offering Price
-The offering price will initially be set at $221/share.
+* The offering price for common (public) stock will initially be set at $221/share.
+* The offering price for preferred (private) stock will initially be set at $300/share.
