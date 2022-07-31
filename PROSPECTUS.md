@@ -44,3 +44,23 @@ Our ultimate goal in this IPO campaign is to raise $5 million in capital for the
 
 ## Investent Model
 The Ruff Management Inc. company has developed a unique way to sell equity and allow investors to hold and trade assets. This is all enabled through our Virtual World platform, which allows investors to buy and sell assets, conduct business transactions, and to create their own virtual paradise. User can own virtual real-estate, banking notes, and virtual assets. Similarly, the Concrete Games platform will issue Concrete Coin, which allows users to exchange for micro-transactions within Concrete Games produced games. 
+
+### Note to investors
+The IPO for the Ruff Management Inc. company has been set for September 3rd. It is within our full understanding that the stock will have a low trading volume at first, as the stock settles to a harmonic point, so we are prepaired to "float" the stock through the first year, to ensure a more smooth opening. The core principal, thus being to ensure sustainability of the financial assets and securities.
+
+## Management
+The Ruff Management Inc. company will appoint a board of represenatives to oversee the management of the company and determine use of resources. The board will be headed by a President/Director (CEO) and a Vice-President/Secretary. There will also be an Operating-Officer/Officer (COO), a Treasurer (CFO) present on the board. Management will be required to file reports with the company on predetermined intervals.
+
+## Underwriting
+Underwriter: Blazed Labs LLC; Blazed Publishing.
+The underwriting agreement provides that the underwriter must buy all of the shares of common stock being sold in this offering if they buy any of them. However, the underwriter is not required to take or pay for the shares of common stock covered by the underwriter’s option to purchase additional common stock as described below.
+
+Our common stock are offered subject to a number of conditions, including:
+
+* receipt and acceptance of our common stock by the underwriter; and
+* the underwriter’s right to reject orders in whole or in part.
+
+In connection with this offering, the underwriter or securities dealers may distribute prospectuses electronically.
+
+## Indemnification
+We have agreed to indemnify the underwriter against certain liabilities, including certain liabilities under the Securities Act. If we are unable to provide this indemnification, we have agreed to contribute to payments the underwriter may be required to make in respect of those liabilities.
