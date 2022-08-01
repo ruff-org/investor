@@ -1,0 +1,50 @@
+# Ruff Management Inc.
+## Active Projects and Campaigns Report, 2022
+- Fire for Angular
+  - The Fire bootstrap & framework library for AngularJS.
+  - v1.1.0 as of 7/31/2022, v2 due by October 2022
+  - Tyler Ruff, Star Dom
+- Sky
+  - City and World simulation microservices and utillities.
+  - v0.0.1 as of 7/31/2022, v1 due by September 2022
+  - Tyler Ruff, Star Dom, Matthew Ruff
+- Ice for PHP
+  - A set of utilities and tools for PHP, made by Blazed Labs.
+  - v1.1.5 as of 7/31/2022, v2 due by November 2022
+  - Tyler Ruff, Star Dom
+- Blazed CLI
+  - Command line program which generates fire+ice apps, interprets BLZ-SH script, and more!
+  - v0.0.1 as of 7/31/2022, v2 due by September 2022
+  - Tyler Ruff
+- Fire for HTML5/JS
+  - Fire core CSS, HTML, and JS framework/boilerplate.
+  - v1.0.0 as of 8/01/2022, v2 due by October 2022
+  - Tyler Ruff
+- Ice for .NET (Blazor)
+  - Ice backend framework bootstrap for C#/.NET.
+  - v0.0.1 as of 0/01/2022, v2 due by December 2022
+  - Tyler Ruff
+- Fire for React
+  - The Fire bootstrap & framework library for React.
+  - v1.0.0 as of 8/01/2022, v2 due by November 2022
+  - Tyler Ruff
+- Ice for Ruby (Rails)
+  - Ice backend framework bootstrap for Ruby on Rails.
+  - v0.0.1 as of 8/01/2022, v2 due by November 2022
+  - Tyler Ruff
+- Ice for PHP
+  - Ice backend framework bootstrap for PHP.
+  - v1.1.0 as of 8/01/2022, v2 due by November 2022
+  - Tyler Ruff
+- Ice for Node
+  - Managed network services for small business.
+  - v1.0.0 as of 8/01/2022, v2 due by October 2022
+  - Tyler Ruff
+- Fire for Svelte
+  - The Fire bootstrap & framework library for SvelteKit.
+  - v1.0.0 as of 8/01/2022, v2 due by October 2022
+  - Tyler Ruff
+- Ice for Java
+  - Ice backend framework bootstrap for Java.
+  - v0.0.1 as of 8/01/2022, v2 due by December 2022
+  - Tyler Ruff

@@ -12,13 +12,7 @@ Investor Relations (IR) spec for Ruff Management Inc.
   - Managed Companies
   - Active Projects/Campaigns
   - Property/Asset Inventory
-* Government
-  - Office of Finance Report
-  - Office of Transport Report
-  - Office of Reality Report
-  - Office of Commerce Report
-  - Office of Diplomacy Report
-  - Office of Technology Report
+* PROSPECTUS
 
 ## More Info
 - [Main Website](https://ruff-manage.com/)
