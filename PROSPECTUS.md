@@ -2,6 +2,9 @@
 > "the prospectus, that is, the legal offering or “selling” document that must be delivered to everyone who is offered or buys the securities. In the prospectus, your company must clearly describe important information about its business operations, financial condition, results of operations, risk factors, and management. The prospectus must also include audited financial statements."
 - [Source](https://www.sec.gov/education/smallbusiness/goingpublic/registrationstatement)
 
+## What is this?
+This document is a prospectus, part of a company's registration statement, required by the [United States SEC](https://sec.gov/). This is the draft of what will be appended to the FORM-S-1 and filed by Ruff Management Inc. Herein we shall constitute our registration statement under the securities act of 1933. Our filed Form S-1 will be avilable from our Investor Relations portal.
+
 ## What is Ruff Management Inc?
 We are a corporation founded to manage the activities of [RTM Transportation LLC](https://rtmtransit.com/) and [Blazed Labs LLC](https://blazedlabs.com/). Our core philosophy is agility and transparency, to which we work to ensure investor confidence and satisfaction.
 
