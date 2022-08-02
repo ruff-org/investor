@@ -3,7 +3,7 @@
 - [Source](https://www.sec.gov/education/smallbusiness/goingpublic/registrationstatement)
 
 ## What is this?
-This document is a prospectus, part of a company's registration statement, required by the [United States SEC](https://sec.gov/). This is the draft of what will be appended to the FORM-S-1 and filed by Ruff Management Inc. Herein we shall constitute our registration statement under the securities act of 1933. Our filed Form S-1 will be avilable from our Investor Relations portal.
+This document is a prospectus, which outlines the private equity offerings by the Ruff Management Inc. company. The company may choose to enter the public equities market in the future, but at this time we shall remain in the private sector. 
 
 ## What is Ruff Management Inc?
 We are a corporation founded to manage the activities of [RTM Transportation LLC](https://rtmtransit.com/) and [Blazed Labs LLC](https://blazedlabs.com/). Our core philosophy is agility and transparency, to which we work to ensure investor confidence and satisfaction.
@@ -17,19 +17,16 @@ The Ruff Management Inc. company maintains equity holdings in web domains, real 
 ## What is Blazed Cash (B$)?
 Blazed Cash (B$) is a type of equity note which is backed by portions of RUff Management Inc. and Blazed Labs LLC shares. Blazed Cash (B$) is traded and exchanged for virtual products and services in the Blazed National simulation, Blazed Cash (B$) can be purchased, but currently it cannot yet be exchanged for USD. 
 
-## Total Public Offering
+## Total Private Offering
 The total offering of shares to investors in this IPO will be 4,000 or 40% of the company. This will include:
 - [blazed.city](https://blazed.city) - Blazed Cash (B$) - **2,000 shares / 20%**
 - [blazed.world](https://blazed.world) - Blazed World Real Estate Bonds - **1,000 shares / 10%**
 - [blazed.games](https://blazed.games) - Concrete Coin - **1,000 shares / 10%**
-* Total: **4,000 / 40%**
-
-## Total Private Issuance
 - [blazed.company](https://blazed.company) - Blazed Company Stock (BLZ) - **1,000 shares / 10%**
 - [Robert Ruff](https://rtmtransit.com) - RTM Transportation LLC CEO - **2,500 shares / 25%**
 - Matthew Ruff - Blazed Labs COO - **2,000 shares / 20%**
 - Maya Parez - Blazed Labs secretary - **500 shares / 5%**
-* Total: **6,000 shares / 60%**
+* Total: **10,000 shares / 100%**
 
 ## Company Financial Record
 The Ruff Management Inc. company has recently been founded, but looking upon the RTM Transportation LLC and Blazed Labs LLC companies, investors can realize the undervalued potential in these companies. The recent financial statements have been included in the **/finance-history/** */ folder.
