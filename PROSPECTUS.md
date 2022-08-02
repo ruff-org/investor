@@ -19,10 +19,11 @@ Blazed Cash (B$) is a type of equity note which is backed by portions of RUff Ma
 
 ## Total Private Offering
 The total offering of shares to investors in this IPO will be 4,000 or 40% of the company. This will include:
-- [blazed.city](https://blazed.city) - Blazed Cash (B$) - **2,000 shares / 20%**
-- [blazed.world](https://blazed.world) - Blazed World Real Estate Bonds - **1,000 shares / 10%**
-- [blazed.games](https://blazed.games) - Concrete Coin - **1,000 shares / 10%**
-- [blazed.company](https://blazed.company) - Blazed Company Stock (BLZ) - **1,000 shares / 10%**
+- Tyler Ruff - Blazed Labs CEO - **6,000 shares / 60%**, vests his equity in:
+  - [blazed.city](https://blazed.city) - Blazed Cash (B$) - **2,000 shares / 20%**
+  - [blazed.world](https://blazed.world) - Blazed World Real Estate Bonds - **1,000 shares / 10%**
+  - [blazed.games](https://blazed.games) - Concrete Coin - **1,000 shares / 10%**
+  - [blazed.company](https://blazed.company) - Blazed Company Stock (BLZ) - **1,000 shares / 10%**
 - [Robert Ruff](https://rtmtransit.com) - RTM Transportation LLC CEO - **2,500 shares / 25%**
 - Matthew Ruff - Blazed Labs COO - **2,000 shares / 20%**
 - Maya Parez - Blazed Labs secretary - **500 shares / 5%**
