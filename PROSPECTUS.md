@@ -11,6 +11,10 @@ We are a corporation founded to manage the activities of [RTM Transportation LLC
 - [Ruff Management](https://ruff-manage.com/)
 - [Investor Relations](https://ir.ruff-manage.com/)
 
+## Invest in Ruff Management Inc.
+- [EquityNet](https://www.equitynet.com/c/ruff-management-inc#)
+- [OpenCollective](https://opencollective.com/ruff-management-inc)
+
 ## How Does It Make Money?
 The Ruff Management Inc. company maintains equity holdings in web domains, real estate, company equity, bonds, and equipment. The company also conducts logistics and data-center operation services.
 
@@ -207,3 +211,6 @@ We have filed with the SEC a registration statement on Form S-1 under the Securi
 
 We also file periodic reports, proxy statements and other information with the SEC. These reports, proxy statements and other information will be available for inspection and copying at the public reference room and website of the SEC referred to above. We also maintain a website at ir.ruff-manage.com, by which you may access these materials free of charge as soon as reasonably practicable after they are electronically filed with, or furnished to, the SEC. The information that is contained on, or that may be accessed through, our website is not a part of this prospectus. We have included our website in this prospectus solely as an inactive textual reference.
 
+Check out our profile on different investment platforms:
+- [EquityNet](https://www.equitynet.com/c/ruff-management-inc#)
+- [OpenCollective](https://opencollective.com/ruff-management-inc)
