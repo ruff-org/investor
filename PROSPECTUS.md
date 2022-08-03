@@ -23,7 +23,7 @@ Blazed Cash (B$) is a type of equity note which is backed by portions of RUff Ma
 
 ## Total Private Offering
 The total offering of shares to investors in this IPO will be 4,000 or 40% of the company. This will include:
-- Tyler Ruff - Blazed Labs CEO - **6,000 shares / 60%**, vests his equity in:
+- [Tyler Ruff](https://tyler-ruff.com/) - Blazed Labs CEO - **5,000 shares / 60%**, vests his equity in:
   - [blazed.city](https://blazed.city) - Blazed Cash (B$) - **2,000 shares / 20%**
   - [blazed.world](https://blazed.world) - Blazed World Real Estate Bonds - **1,000 shares / 10%**
   - [blazed.games](https://blazed.games) - Concrete Coin - **1,000 shares / 10%**
